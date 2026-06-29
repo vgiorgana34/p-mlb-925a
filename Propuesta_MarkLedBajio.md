@@ -244,9 +244,8 @@ One funciona si la prioridad es validar primero el motor de eventos y dejar la w
 ## SIGUIENTES PASOS
 
 1. **Confirmar paquete** — One o Pro. La diferencia entre los dos es la página web.
-2. **Fecha del evento semilla** — idealmente en las primeras 3 semanas. Sin el primer video todo lo demás opera a media máquina.
-3. **Kickoff** — 60 minutos para alinear marca, calendario y accesos.
-4. **Activación** — Fase 1 arranca en los 7 días siguientes a la firma.
+2. **Kickoff** — 60 minutos para alinear marca, calendario y accesos.
+3. **Activación** — Fase 1 arranca en los 7 días siguientes a la firma.
 
 ---
 
